@@ -298,7 +298,8 @@ ul {
 }
 
 .home .home-btn {
-    margin-top: 40px
+    margin-top: 40px;
+    padding:0;
 }
 
 .home .home-btn .video-play-btn {
